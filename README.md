@@ -106,4 +106,4 @@ Please include screenshots of:
 ---
 
 ## 🙌 Credits
-Developed for internship assignment at **8byte**.
+Developed for an internship joining assignment given by **8byte**.
